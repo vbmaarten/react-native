@@ -105,6 +105,7 @@ module.exports = {
     navigator: false,
     process: false,
     Promise: true,
+    Response: false,
     requestAnimationFrame: true,
     requestIdleCallback: true,
     require: false,
